@@ -11,8 +11,8 @@ members = members.filter((member)=>{
     return member.name !== 'Satya';
 });
 
-// console.log(members);
-// const list = ["Anil","Sunil","Steve","Kevi"];
+console.log(list);
+console.log(employees);
 
 // const employees = [{name:"Anil",dept:"IT"},{name:"Sunil",dept:"Sales"}];
 
