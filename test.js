@@ -12,6 +12,6 @@ for (const emp of employees){
     console.log("New Employee Info:" + tmpEmp);
     const empObj = JSON.parse(tmpEmp);
     // for(const attr of empObj){
-        console.log("Object #"+empObj.name);
+        console.log("Object ##"+empObj.name);
     // }
 }
