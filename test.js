@@ -1,6 +1,6 @@
 const list = ["Anil","Sunil","Steve","Kevi"];
 
-const employees = [{name:"Anil",dept:"IT"},{name:"Sunil",dept:"Sales"}];
+const employees = [{name:"Anil",dept:"IT"},{name:"Sunil",dept:"Sales"},{name:"Steve",dept:"Legal"}];
 
 console.log(list);
 
